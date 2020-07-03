@@ -1,0 +1,10 @@
+C:\Users\sergi\source\repos\App\CountTextOccurrences\bin\Debug\netcoreapp2.1\CountTextOccurrences.deps.json
+C:\Users\sergi\source\repos\App\CountTextOccurrences\bin\Debug\netcoreapp2.1\CountTextOccurrences.runtimeconfig.json
+C:\Users\sergi\source\repos\App\CountTextOccurrences\bin\Debug\netcoreapp2.1\CountTextOccurrences.runtimeconfig.dev.json
+C:\Users\sergi\source\repos\App\CountTextOccurrences\bin\Debug\netcoreapp2.1\CountTextOccurrences.dll
+C:\Users\sergi\source\repos\App\CountTextOccurrences\bin\Debug\netcoreapp2.1\CountTextOccurrences.pdb
+C:\Users\sergi\source\repos\App\CountTextOccurrences\obj\Debug\netcoreapp2.1\CountTextOccurrences.csprojAssemblyReference.cache
+C:\Users\sergi\source\repos\App\CountTextOccurrences\obj\Debug\netcoreapp2.1\CountTextOccurrences.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\App\CountTextOccurrences\obj\Debug\netcoreapp2.1\CountTextOccurrences.AssemblyInfo.cs
+C:\Users\sergi\source\repos\App\CountTextOccurrences\obj\Debug\netcoreapp2.1\CountTextOccurrences.dll
+C:\Users\sergi\source\repos\App\CountTextOccurrences\obj\Debug\netcoreapp2.1\CountTextOccurrences.pdb
